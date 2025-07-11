@@ -40,6 +40,9 @@ Bar Chart: Compared average grades between male and female students.
 
 ✅ Key Findings
 Average Final Grade (G3): ~10.42
+
 Students Scoring Above 15: 94 students
+
 Correlation (Study Time vs G3): Slight positive (weak) correlation
+
 Gender Performance: Male students slightly outperformed females on average
