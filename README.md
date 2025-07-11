@@ -28,17 +28,23 @@ Checked distributions and potential data quality issues.
 Data Analysis:
 
 Average Final Grade (G3): Calculated using .mean().
+
 High Scorers: Counted students scoring above 15 in G3.
+
 Correlation: Checked relationship between studytime and G3.
+
 Gender Comparison: Compared average G3 scores by gender.
 
 Data Visualization:
 
 Histogram: Showed distribution of G3 scores.
+
 Scatter Plot: Visualized the relationship between study time and G3.
+
 Bar Chart: Compared average grades between male and female students.
 
 ✅ Key Findings
+
 Average Final Grade (G3): ~10.42
 
 Students Scoring Above 15: 94 students
